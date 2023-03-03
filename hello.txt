@@ -1,4 +1,5 @@
 Hello Everyone!
 Git is the nextgen SCM!
+Hum seekh rahe hai Git!
 Git is very powerful!
 Exploring the commands of Git

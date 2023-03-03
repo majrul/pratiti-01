@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello Everyone! -- This change by Dev1
+=======
+Hello Everyone! This is change by Dev2
+Git is the nextgen SCM!
+>>>>>>> 0d8831f7295c0719a90c7cbc45fbba289cb73976
 Hum seekh rahe hai Git!
 Git is very powerful!
 Exploring the commands of Git

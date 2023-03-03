@@ -1,4 +1,4 @@
 Hello Everyone!
-We are learning Git!
+Git is the nextgen SCM!
 Git is very powerful!
 Exploring the commands of Git

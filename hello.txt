@@ -1,4 +1,4 @@
 Hello Everyone!
-We are learning Git!
+Hum seekh rahe hai Git!
 Git is very powerful!
 Exploring the commands of Git
